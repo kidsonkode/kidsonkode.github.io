@@ -1,0 +1,1 @@
+../plugins/nivo-slider/jquery.nivo.slider.pack.js

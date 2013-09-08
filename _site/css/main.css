@@ -23,7 +23,15 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+#home p { 
+  margin: auto; 
+  padding-bottom: 1em;
+  line-height: 1.4em;
+
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 14pt;
+  width: 70%;
+}
 
 a         { color: #00a; }
 a:hover   { color: #000; }
@@ -157,4 +165,16 @@ ul.posts span {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+#header_wrap #left-matter {
+  position: absolute;
+  top: 1.2em;
+  left: 1.2em;
+}
+#header_wrap h2 {
+  color: white;
+  width: 20em;
+  text-align: justify;
+  font-style: italic;
 }
