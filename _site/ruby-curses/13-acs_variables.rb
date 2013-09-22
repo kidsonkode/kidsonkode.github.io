@@ -1,1 +1,0 @@
-# ACS variables do not appear to be included in Ncurses.rb
