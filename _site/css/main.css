@@ -110,12 +110,7 @@ ul.posts span {
   overflow: hidden;
 }
 
-.site .footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-
-.site .footer .contact a {
+.footer .contact a {
   color: #8085C1;
 }
 
@@ -177,4 +172,9 @@ ul.posts span {
   width: 20em;
   text-align: justify;
   font-style: italic;
+}
+
+#location a {
+  display: block;
+  clear: both;
 }
