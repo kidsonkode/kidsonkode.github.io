@@ -167,11 +167,19 @@ ul.posts span {
   top: 1.2em;
   left: 1.2em;
 }
+
+
+#header_wrap #left-matter #logo {
+  width: 9em;
+  float: left;
+}
+
 #header_wrap h2 {
   color: white;
   width: 20em;
   text-align: justify;
   font-style: italic;
+  clear: both;
 }
 
 #location a {
